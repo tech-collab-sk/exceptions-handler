@@ -63,3 +63,4 @@ src/
 ```bash
 mvn clean install
 ```
+[![](https://jitpack.io/v/tech-collab-sk/exceptions-handler.svg)](https://jitpack.io/#tech-collab-sk/exceptions-handler)
