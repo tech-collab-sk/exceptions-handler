@@ -1,7 +1,5 @@
 package com.techcollab.exceptions;
 
-import ch.qos.logback.core.spi.ErrorCodes;
-
 public enum DefaultErrorCodes implements ErrorCodes {
 
     NOT_NULL_VALIDATION("COMMON_EXCEPTION_0000"),
